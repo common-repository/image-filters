@@ -1,0 +1,8 @@
+/.wordpress-org
+/.git
+/.github
+/node_modules
+/scripts
+/target
+/assets
+/package-lock.json
